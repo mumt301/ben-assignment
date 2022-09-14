@@ -1,0 +1,40 @@
+MUMT301-2021 Assignment 1
+QUESTIONNAIRE!
+
+The following questionnaire seeks to understand your previous knowledge about some of the concepts that we will learn in class during the coming term.
+
+1. Do you know any programming languages? If you do, which ones?
+	Python, Java (Learnt them in first year briefly with COMP 202, 250)
+
+2. What is your primary computer operating system (OS)?
+	MacOS Monterey 
+
+3. Do you own a smartphone, tablet, or mobile device? What is your favourite OS for mobile devices?
+	iPhone
+
+4. Do you use any social networking services? If you do, which ones? Why?
+	Facebook -  to find events, in football and music groups
+	Snapchat - contacting friends
+
+5. Expand the following acronyms and do research about their meaning. You may look them up if you don't know:
+
+    HTTP - Hypertext Transfer Protocol
+    REST - Representational state transfer    
+    API - Application Programming Interface
+
+6. Do you play a musical instrument or sing? If so, how much experience do you have?
+	Used to play electric guitar for 10 years but haven't played in a while. 
+
+7. Can you read music notation? If so, how well?
+	Only tab. 
+
+8. How large is your personal music collection? Estimate the number of artists, albums, and songs. If instead you listen to music using streaming services, how many playlists, artists, albums, and songs do you have in your account?
+	I use Spotify and listen to my music as albums. Hard to estimate how many I have saved but am guessing at least 300.
+
+9. How do you search and find new music? How do you think this affects the types of artists that you end up listening to?
+	Depends on the genre. For some music I look at who's featuring and then go explore their own music. I follow groups on Facebook that post about music.
+	For more electronic music I sometimes use the Spotify Radio feature. Or go onto Beatport and find playlists of songs. Spotify radio definitely controls 				some of the music that I find, but I do my best to not be reliant on it
+
+10. Name two musical artists that you like. What do you find interesting about their music that makes you like them?
+	Rakim - One of the best MCs ever. Incredible flow and rhyme schemes. 
+	Document One - Really crazy drum n bass producer. Uses such cool sounds and aligns them to make songs really unique and interesting. 
